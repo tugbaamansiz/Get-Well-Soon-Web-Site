@@ -1,2 +1,13 @@
-# Get-Well-Soon-Web-Site
-A small interactive "get well soon" surprise page made for a friend 💗
+# Get Well Soon Website 💗
+
+A small interactive "get well soon" surprise website made for a friend.
+
+## Features
+- Interactive buttons
+- Heart animation
+- Responsive design (mobile friendly)
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
